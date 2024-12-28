@@ -9,6 +9,7 @@ Pastikan keberadaan ros2,gazebo dan python3 dan source mereka. Lalu pastikan mod
 sudo apt-get install ros-humble-teleop-twist-keyboard
 sudo apt install ros-humble-gazebo-ros-pkgs
 ```
+Humble dapat ditukar dengan distribusi ROS yang digunakan <br />
 Cara Menjalankan:  
 ### 1.  Build dan source workspace untuk 3 terminal <br /> 
     cd <workspace> (folder berisikan semua file tugas besar ini) 
