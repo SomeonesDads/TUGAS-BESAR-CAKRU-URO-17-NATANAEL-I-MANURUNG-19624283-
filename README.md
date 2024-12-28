@@ -1,5 +1,7 @@
-# TUGAS-BESAR-CAKRU-URO-17-NATANAEL-I-MANURUNG-19624283-
-# Differential wheeled robot-
+# TUGAS-BESAR-CAKRU-URO-17-NATANAEL-I-MANURUNG-19624283
+# Differential wheeled robot
+
+## Link video penjelasan dan simulasi robot: https://drive.google.com/file/d/1v8eQ5ZxkTxOsxhJ7_uLbZdaWI1LvwaUV/view?usp=sharing
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div> 
 Pre-Requisites:<br />
