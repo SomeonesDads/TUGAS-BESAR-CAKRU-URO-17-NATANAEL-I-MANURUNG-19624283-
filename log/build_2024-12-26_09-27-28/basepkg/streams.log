@@ -1,0 +1,16 @@
+[0.013s] Invoking command in '/rosws/build/basepkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /rosws/src/basepkg -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/rosws/install/basepkg
+[0.021s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.123s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.129s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.182s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:53 (message):
+[0.182s]   ament_package_xml() package name 'basepkg' in '/package.xml' does not match
+[0.182s]   current PROJECT_NAME 'my_first_pkg'.  You must call project() with the same
+[0.182s]   package name before.
+[0.182s] Call Stack (most recent call first):
+[0.183s]   /opt/ros/humble/share/ament_lint_auto/cmake/ament_lint_auto_find_test_dependencies.cmake:31 (ament_package_xml)
+[0.183s]   CMakeLists.txt:49 (ament_lint_auto_find_test_dependencies)
+[0.183s] 
+[0.183s] [0m
+[0.183s] -- Configuring incomplete, errors occurred!
+[0.183s] See also "/rosws/build/basepkg/CMakeFiles/CMakeOutput.log".
+[0.186s] Invoked command in '/rosws/build/basepkg' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /rosws/src/basepkg -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/rosws/install/basepkg

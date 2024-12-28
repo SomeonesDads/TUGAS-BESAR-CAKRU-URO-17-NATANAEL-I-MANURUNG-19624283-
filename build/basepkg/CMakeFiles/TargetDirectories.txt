@@ -1,0 +1,10 @@
+/rosws/build/basepkg/CMakeFiles/uninstall.dir
+/rosws/build/basepkg/CMakeFiles/basepkg_uninstall.dir
+/rosws/build/basepkg/CMakeFiles/my_node.dir
+/rosws/build/basepkg/CMakeFiles/test.dir
+/rosws/build/basepkg/CMakeFiles/edit_cache.dir
+/rosws/build/basepkg/CMakeFiles/rebuild_cache.dir
+/rosws/build/basepkg/CMakeFiles/list_install_components.dir
+/rosws/build/basepkg/CMakeFiles/install.dir
+/rosws/build/basepkg/CMakeFiles/install/local.dir
+/rosws/build/basepkg/CMakeFiles/install/strip.dir

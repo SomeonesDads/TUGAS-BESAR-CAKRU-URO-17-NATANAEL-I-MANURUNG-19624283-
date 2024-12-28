@@ -1,0 +1,4 @@
+[0.014s] Invoking command in '/rosws/build/basepkg': /usr/bin/cmake /rosws/src/basepkg -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCATKIN_SYMLINK_INSTALL=ON -DCMAKE_INSTALL_PREFIX=/rosws/install/basepkg
+[0.018s] [0mCMake Error: The source directory "/rosws/src/basepkg" does not appear to contain CMakeLists.txt.
+[0.018s] Specify --help for usage, or press the help button on the CMake GUI.[0m
+[0.022s] Invoked command in '/rosws/build/basepkg' returned '1': /usr/bin/cmake /rosws/src/basepkg -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCATKIN_SYMLINK_INSTALL=ON -DCMAKE_INSTALL_PREFIX=/rosws/install/basepkg

@@ -1,0 +1,29 @@
+[0.028s] Invoking command in '/rosws/build/basepkg': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /rosws/build/basepkg -- -j16 -l16
+[0.112s] [100%] Built target my_node
+[0.135s] Invoked command in '/rosws/build/basepkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /rosws/build/basepkg -- -j16 -l16
+[0.156s] Invoking command in '/rosws/build/basepkg': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --install /rosws/build/basepkg
+[0.168s] -- Install configuration: ""
+[0.168s] -- Execute custom install script
+[0.169s] -- Symlinking: /rosws/install/basepkg/lib/basepkg/lidar_publisher.py
+[0.183s] -- Up-to-date symlink: /rosws/install/basepkg/lib/basepkg/my_node
+[0.185s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg//launch/gazebo.launch.py
+[0.186s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg//urdf/robot.urdf
+[0.187s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg//rviz/rviz_config.rviz
+[0.187s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg//src/lidar_publisher.py
+[0.188s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg//src/my_node.cpp
+[0.188s] -- Up-to-date symlink: /rosws/install/basepkg/share/ament_index/resource_index/package_run_dependencies/basepkg
+[0.189s] -- Up-to-date symlink: /rosws/install/basepkg/share/ament_index/resource_index/parent_prefix_path/basepkg
+[0.189s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg/environment/ament_prefix_path.sh
+[0.189s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg/environment/ament_prefix_path.dsv
+[0.189s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg/environment/path.sh
+[0.190s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg/environment/path.dsv
+[0.190s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg/local_setup.bash
+[0.190s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg/local_setup.sh
+[0.191s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg/local_setup.zsh
+[0.191s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg/local_setup.dsv
+[0.191s] -- Symlinking: /rosws/install/basepkg/share/basepkg/package.dsv
+[0.209s] -- Up-to-date symlink: /rosws/install/basepkg/share/ament_index/resource_index/packages/basepkg
+[0.210s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg/cmake/basepkgConfig.cmake
+[0.210s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg/cmake/basepkgConfig-version.cmake
+[0.210s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg/package.xml
+[0.216s] Invoked command in '/rosws/build/basepkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --install /rosws/build/basepkg

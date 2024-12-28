@@ -1,0 +1,29 @@
+[0.010s] Invoking command in '/rosws/build/basepkg': /usr/bin/cmake --build /rosws/build/basepkg -- -j16 -l16
+[0.050s] [100%] Built target my_node
+[0.060s] Invoked command in '/rosws/build/basepkg' returned '0': /usr/bin/cmake --build /rosws/build/basepkg -- -j16 -l16
+[0.069s] Invoking command in '/rosws/build/basepkg': /usr/bin/cmake --install /rosws/build/basepkg
+[0.073s] -- Install configuration: ""
+[0.074s] -- Execute custom install script
+[0.074s] -- Up-to-date symlink: /rosws/install/basepkg/lib/basepkg/lidar_publisher.py
+[0.074s] -- Up-to-date symlink: /rosws/install/basepkg/lib/basepkg/my_node
+[0.075s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg//launch/gazebo.launch.py
+[0.075s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg//urdf/robot.urdf
+[0.076s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg//rviz/rviz_config.rviz
+[0.076s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg//src/lidar_publisher.py
+[0.076s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg//src/my_node.cpp
+[0.076s] -- Up-to-date symlink: /rosws/install/basepkg/share/ament_index/resource_index/package_run_dependencies/basepkg
+[0.076s] -- Up-to-date symlink: /rosws/install/basepkg/share/ament_index/resource_index/parent_prefix_path/basepkg
+[0.076s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg/environment/ament_prefix_path.sh
+[0.077s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg/environment/ament_prefix_path.dsv
+[0.077s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg/environment/path.sh
+[0.077s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg/environment/path.dsv
+[0.077s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg/local_setup.bash
+[0.077s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg/local_setup.sh
+[0.077s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg/local_setup.zsh
+[0.077s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg/local_setup.dsv
+[0.077s] -- Symlinking: /rosws/install/basepkg/share/basepkg/package.dsv
+[0.084s] -- Up-to-date symlink: /rosws/install/basepkg/share/ament_index/resource_index/packages/basepkg
+[0.084s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg/cmake/basepkgConfig.cmake
+[0.084s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg/cmake/basepkgConfig-version.cmake
+[0.084s] -- Up-to-date symlink: /rosws/install/basepkg/share/basepkg/package.xml
+[0.086s] Invoked command in '/rosws/build/basepkg' returned '0': /usr/bin/cmake --install /rosws/build/basepkg

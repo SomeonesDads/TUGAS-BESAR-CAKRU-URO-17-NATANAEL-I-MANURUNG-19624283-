@@ -1,0 +1,2 @@
+Invoking command in '/rosws/build/basepkg': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /rosws/build/basepkg -- -j16 -l16
+Invoked command in '/rosws/build/basepkg' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /rosws/build/basepkg -- -j16 -l16

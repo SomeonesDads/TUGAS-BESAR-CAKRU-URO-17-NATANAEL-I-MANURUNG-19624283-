@@ -1,0 +1,6 @@
+Invoking command in '/rosws/build/basepkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /rosws/src/basepkg -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/rosws/install/basepkg
+Invoked command in '/rosws/build/basepkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /rosws/src/basepkg -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/rosws/install/basepkg
+Invoking command in '/rosws/build/basepkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /rosws/build/basepkg -- -j16 -l16
+Invoked command in '/rosws/build/basepkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /rosws/build/basepkg -- -j16 -l16
+Invoking command in '/rosws/build/basepkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /rosws/build/basepkg
+Invoked command in '/rosws/build/basepkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /rosws/build/basepkg
